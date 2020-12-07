@@ -9,7 +9,7 @@ Core Concepts
   3. File I/O - The current state of the board can be saved by writing the data to a file. 
   Then the data can be loaded back by reading the data in the file.
 
-  4. Testable Component - JUnit tests were created to test the hasWinner function in the 
+  4. Testable Component - JUnit tests were created to test the Board's hasWinner function in the 
   Board class. 
   
   
