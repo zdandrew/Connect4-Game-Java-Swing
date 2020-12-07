@@ -1,7 +1,6 @@
 Hello! This is a ConnectFour game created with Java Swing.
 
-===================
-=: Core Concepts :=
+Core Concepts
 
   1. 2D Arrays - the Connect four board is represented by a 2d array containing the pieces.
 
@@ -12,13 +11,9 @@ Hello! This is a ConnectFour game created with Java Swing.
 
   4. Testable Component - JUnit tests were created to test the hasWinner function in the 
   Board class. 
-
-=========================
-=: Implementation :=
-=========================
-
-- Provide an overview of each of the classes in your code, and what their
-  function is in the overall game.
+  
+  
+Implementation
 
 Board: This class defines the board. A 2d array, which is the instance variable, stores null or 
 Piece objects. This represents the pieces on the board. This class also contains hasWinner which 
